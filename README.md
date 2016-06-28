@@ -2,12 +2,12 @@
 
 #### _introduce me _
 ```
-* name : 崇庆旭       职位：ios开发工程师
-* 工作年限：2.5年     学历：本科
-* 学校：天津科技大学  电话:*15251575137* 
-* 现居地：杭州
-* 工作状况：离职 可立即就职
-* 英语：cet－4 *无障碍使用stackoverflow 阅读官方文档  观看wwdc *
+👊  name : 崇庆旭       职位：ios开发工程师
+👊  工作年限：2.5年     学历：本科
+👊  学校：天津科技大学  电话:*15251575137* 
+👊  现居地：杭州
+👊  工作状况：离职 可立即就职
+👊  英语：cet－4 *无障碍使用stackoverflow 阅读官方文档  观看wwdc *
 ```
 #### 求职意向
 
@@ -31,7 +31,7 @@
 
 #### 专业技能
 ```
-* 0x01 : 0.完成直播开发。即时聊天。app内购
+🐲  0x01 : 0.完成直播开发。即时聊天。app内购
 	 1.runloop,runtime,gcd,nsopertation
          2.arc内存管理
          3.mvc kvo kvc 单例 代理 通知 
@@ -39,10 +39,10 @@
 	 5.动画 贝塞尔曲线 coreanimation  cashaperlayer cadisplaylink
 	 6.autolayout 布局 
 	 7.了解html css 以及 ios与js的交互
-* 0x02 : 1.常年使用oc开发
+🐲  0x02 : 1.常年使用oc开发
   	 2.熟悉swift
-* 0x03 : 了解mode.js 使用express搭建简易服务器 
-* 0x04 : 了解html5
+🐲  0x03 : 了解mode.js 使用express搭建简易服务器 
+🐲  0x04 : 了解html5
 
 	 
 ```
@@ -82,11 +82,11 @@
 ```
 #### *开源作品*
 ```
-* https://github.com/CQXfly/QXTagView 
+ https://github.com/CQXfly/QXTagView 
   应对标签页卡顿解决方案 ；自己管理缓存池，做到标签复用，圆角的处理：异步生成圆角图片覆盖到原来的view上。
-* https://github.com/CQXfly/QXSeperatePageViewController
+ https://github.com/CQXfly/QXSeperatePageViewController
   分页控件 比较常用 
-* https://github.com/CQXfly/Meituan
+ https://github.com/CQXfly/Meituan
   三级联动的分类显示界面 购物类app显示商品详情可用到
 ```
 #### _个人评价_
