@@ -41,7 +41,7 @@
 	 7.了解html css 以及 ios与js的交互
 🐲  0x02 : 1.常年使用oc开发
   	 2.熟悉swift
-🐲  0x03 : 了解mode.js 使用express搭建简易服务器 
+🐲  0x03 : 了解node.js 使用express搭建简易服务器 
 🐲  0x04 : 了解html5
 
 	 
