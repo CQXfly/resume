@@ -103,6 +103,11 @@
 ```
 #### *开源作品*
 ```
+MXPromise. 木星直播项目中使用的promise 对于后台给的各种需要几个接口同时返回的数据做操作时，使用promise更加美味。
+MXFrameLayout. 眼馋于Masonary的block内操作UI布局，但对于frame项目一大块的布局写下来的痛苦，开发的layout布局写法。块内实现每个ui的布局，方便开发，以及代码阅读。
+
+https://www.foxfroever.cn:3003/movies : 开发的爬虫 爬电影天堂的电影数据，是自己的node项目，拥有登录注册功能，使用redis mongodb 阿里大鱼。
+
  https://github.com/CQXfly/QXTagView 
   应对标签页卡顿解决方案 ；自己管理缓存池，做到标签复用，圆角的处理：异步生成圆角图片覆盖到原来的view上。
  https://github.com/CQXfly/QXSeperatePageViewController
